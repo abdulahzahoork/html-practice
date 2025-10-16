@@ -12,4 +12,4 @@ I’m passionate about web development and continuously learning to become a ski
 
 ---
 
-### Feel free to explore, fork, or give feedback!
+### ⭐ Feel free to explore, fork, or give feedback!
